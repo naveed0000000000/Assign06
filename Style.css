@@ -1,0 +1,12 @@
+body{background-color: black;
+color: azure;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;}
+
+@media only screen and (max-width:350px)
+{body{background-color: blue;
+    color: greenyellow;
+width: 100%; 
+font-size: small;
+font-style: normal;}
+};

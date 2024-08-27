@@ -1,0 +1,26 @@
+body{color: azure;
+background-color: black;
+font-family: Arial, Helvetica, sans-serif;}
+
+table{background-color: rgb(151, 90, 209);
+color: bisque;}
+#td01{background-color: rgb(105, 105, 223);
+border-color: azure;
+border-width: 5px;}
+
+#email{color: blue;}
+#Form01{background-color: rgb(150, 113, 165);
+    margin-left:250px;
+margin-right: 250px;
+margin-top:100px;
+border: dashed;
+padding-left: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+width: 400px;
+border-radius: 10px;
+border-color: rgb(40, 4, 73);}
+
+
+
+h3{color: yellow;}  
